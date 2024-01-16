@@ -1,2 +1,2 @@
-# webpack-project
-Webpack
+# Webpack Project Template
+

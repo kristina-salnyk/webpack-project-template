@@ -1,7 +1,7 @@
 {
-  "name": "webpack-project",
+  "name": "webpack-project-template",
   "version": "1.0.0",
-  "description": "Webpack",
+  "description": "Webpack Project Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kristina-salnyk/webpack-project.git"
+    "url": "git+https://github.com/kristina-salnyk/webpack-project-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kristina-salnyk/webpack-project/issues"
+    "url": "https://github.com/kristina-salnyk/webpack-project-template/issues"
   },
-  "homepage": "https://github.com/kristina-salnyk/webpack-project#readme",
+  "homepage": "https://github.com/kristina-salnyk/webpack-project-template#readme",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
